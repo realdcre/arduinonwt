@@ -26,3 +26,11 @@
 # created read_from_sensor2
 # updated changelog
 # discharged sort branch - (branch disabled)
+
+# discharged ardu branch - (branch disable)
+# merged ardu and sort to main
+# created read_from_sensor3
+# released rfs-ardu-br-v0.9
+# created read_from_sensor4w-delay
+# released rfs-ardu-r-v1.0
+# updated changelog
