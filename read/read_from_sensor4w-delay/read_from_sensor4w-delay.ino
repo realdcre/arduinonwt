@@ -12,6 +12,7 @@ void loop() {
   float voltage = sensorValue * (5.0 / 1023.0);
   // print out the value you read:
   Serial.println(voltage);
+  delay(500)
 }
 
 // sign:arduinonwt/realdcre
