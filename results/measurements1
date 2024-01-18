@@ -1,0 +1,24 @@
+This document contains the contents of the arduinonwt/results folder
+
+# measurements
+
+    There were significant problems regarding the LDR Sensor on the arduinonwt project hardware. The sensor gave a constant 5V on 5V High and 0V on OV/GND Low power. Therefor the variations are non-existent and values cannot be taken from measurements.
+    The reason for failiure are multiple defects with diffrent LDRs.
+
+    Value Span
+
+    - on 5V High
+        High: 5.00
+        Low: 4.96
+        Avg: 5.00
+    - on 0V/GND Low
+        High: 0.15
+        Low: 0.00
+        Avg: 0.00
+
+    These false measurements are given in Volt.
+    //measured by arduino
+
+# result
+
+    There was no result due to no measurements taken
